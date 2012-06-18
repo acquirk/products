@@ -1,0 +1,16 @@
+<div class="footer-container">
+    <div class="footer">
+        <ul>
+<li><a href="http://products.gasmedix.com/about-magento-demo-store?___SID=U">About Us</a></li>
+<li class="last"><a href="http://products.gasmedix.com/customer-service?___SID=U">Customer Service</a></li>
+</ul><ul class="links">
+            <li class="first" ><a href="http://products.gasmedix.com/catalog/seo_sitemap/category/?___SID=U" title="Site Map" >Site Map</a></li>
+            <li ><a href="http://products.gasmedix.com/catalogsearch/term/popular/?___SID=U" title="Search Terms" >Search Terms</a></li>
+            <li ><a href="http://products.gasmedix.com/catalogsearch/advanced/?___SID=U" title="Advanced Search" >Advanced Search</a></li>
+            <li ><a href="http://products.gasmedix.com/contacts/?___SID=U" title="Contact Us" >Contact Us</a></li>
+            <li class=" last" ><a href="http://products.gasmedix.com/rss/?___SID=U" title="RSS" class="link-rss">RSS</a></li>
+    </ul>
+        <p class="bugs">Help Us to Keep Magento Healthy - <a href="http://www.magentocommerce.com/bug-tracking" onclick="this.target='_blank'"><strong>Report All Bugs</strong></a> (ver. 1.4.1.0)</p>
+        <address>&copy; GasMedix. All Rights Reserved.</address>
+    </div>
+</div>
